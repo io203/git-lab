@@ -9,3 +9,4 @@ git의 다양한 기능을 알아봅시다.
 
 reset1
 reset2
+reset3
